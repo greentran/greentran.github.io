@@ -90,6 +90,7 @@ author:
   email            :
   links            :
    - label: "Email"
+     icon: "fas fa-fw fa-envelope-square"
      url: mailto:ly.tran@fulbrightmail.org
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
